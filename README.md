@@ -9,3 +9,9 @@ The Bank Loan Power BI Dashboard is a data-driven solution designed to provide i
 ✅ Repayment & Delinquency Tracking – Monitor overdue payments and repayment behavior. <br>
 ✅ Revenue & Profitability Insights – Assess financial performance and interest earnings. <br>
 ✅ Custom Filters & Reports – Drill down by loan type, region, customer segment, or time period <br>
+<br> 
+# 🛠️ Tech Stack <br>
+Visualization: Microsoft Power BI <br>
+Data Source: Excel / API Integration <br>
+Data Processing: Power Query / DAX (Data Analysis Expressions) <br>
+Deployment: Power BI Service / Power BI Embedded <br>
